@@ -53,3 +53,7 @@ def plotSecondEigenvalue(n=100):
 
     plt.plot(xs, ys)
     plt.show()
+
+
+if __name__ == "__main__":
+    plotSecondEigenvalue()

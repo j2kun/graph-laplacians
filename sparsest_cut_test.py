@@ -38,3 +38,6 @@ def plotQualities():
 
     plt.plot(ps, cutQualities)
     plt.show()
+
+if __name__ == "__main__":
+    plotQualities()
